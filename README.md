@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mina</h1>
-<h3 align="center">Designer</h3>
+<h3 align="center">Designer:snowman:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
