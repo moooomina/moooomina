@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=webDesigner&animation=fadeIn&fontColor=333333&type=waving&fontSize=20)
+![header](https://capsule-render.vercel.app/api?text=webDesigner&animation=fadeIn&fontColor=333333&type=waving&fontSize=30)
 
 <h1 align="center">Hi 👋, I'm mina</h1>
 <h3 align="center">Designer:snowman:</h3>
